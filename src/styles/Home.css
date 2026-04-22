@@ -1,0 +1,36 @@
+.home{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+.profile-section{
+text-align:center;
+}
+
+.profile{
+width:150px;
+border-radius:50%;
+margin-bottom:15px;
+}
+
+.tagline{
+color:gray;
+}
+
+.section{
+margin-top:30px;
+}
+
+.skills{
+display:flex;
+flex-wrap:wrap;
+gap:10px;
+}
+
+.skills span{
+background:#e2e8f0;
+padding:8px 14px;
+border-radius:20px;
+font-size:14px;
+}
